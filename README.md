@@ -1,6 +1,6 @@
 # Netcode
 
-Basic Example how to connect games to Steam, Epic and Gog Stores.
+Basic Example how to connect games to Steam.
 
 
 https://docs-multiplayer.unity3d.com/
